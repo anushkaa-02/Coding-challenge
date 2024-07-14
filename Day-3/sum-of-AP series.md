@@ -1,5 +1,5 @@
 # Sum of AP series
-
+Problem link: [Click here](https://www.geeksforgeeks.org/problems/sum-of-ap-series4512/1?page=4&difficulty=School&sortBy=submissions)
 
 ```cpp
 class Solution
