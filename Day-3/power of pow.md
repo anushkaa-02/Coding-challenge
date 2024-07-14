@@ -1,0 +1,1 @@
+# Powerof pow | odd number
