@@ -1,0 +1,1 @@
+# Average in a stream
